@@ -2,7 +2,7 @@
 
 Allows you to see which song you're playing along with other info while playing Beat Saber on Quest.
 
-Everything should work fine, but if you encounter any problems, please let lixiangwuxian know about the issue.
+Everything should work fine, but if you encounter any problems, please send a message in #quest-mod-dev on the BSMG Discord server or create an issue on this repository.
 
 ## Features
 
