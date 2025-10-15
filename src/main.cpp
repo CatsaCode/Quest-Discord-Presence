@@ -37,7 +37,6 @@
 using namespace GlobalNamespace;
 
 #include "scotland2/shared/modloader.h"
-#include "paper/shared/logger.hpp"
 
 #include <string>
 #include <optional>
