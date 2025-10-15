@@ -1,12 +1,10 @@
 # Discord Presence
 
-Now Support beatsaber 1.37 by lixiangwuxian
+Allows you to see which song you're playing along with other info while playing Beat Saber on Quest.
 
-Everything should work fine, but if you encount any problems, please let me know in issue.
+Everything should work fine, but if you encounter any problems, please let lixiangwuxian know about the issue.
 
-Allows you to see which song you're playing along with other info while playing beat saber on the Oculus Quest.
-
-### features
+## Features
 
 - [x] Singleplayer Mode Support
 - [x] Pratice Mode Pratice
@@ -27,4 +25,6 @@ You can download the mod for your BS version from the [releases page](https://gi
 
 ## Credits
 
-* [MadMagic](https://github.com/madmagic007), [zoller27osu](https://github.com/zoller27osu), [Sc2ad](https://github.com/Sc2ad) and [jakibaki](https://github.com/jakibaki) - [beatsaber-hook](https://github.com/sc2ad/beatsaber-hook)
+- [MadMagic](https://github.com/madmagic007), [zoller27osu](https://github.com/zoller27osu), [Sc2ad](https://github.com/Sc2ad) and [jakibaki](https://github.com/jakibaki) - [beatsaber-hook](https://github.com/sc2ad/beatsaber-hook)
+- [lixiangwuxian](https://github.com/lixiangwuxian) for 1.37.0 support
+- [CatsaCode](https://github.com/CatsaCode) for 1.40.8 support
