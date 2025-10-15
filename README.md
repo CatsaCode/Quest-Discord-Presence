@@ -16,7 +16,7 @@ Allows you to see which song you're playing along with other info while playing 
 
 ## Installation
 
-- To install the mod, use [Mods before Friday](https://mbf.bsquest.xyz/). For BS 1.28 users, use [Quest Patcher](https://github.com/Lauriethefish/QuestPatcher)
+- To install the mod, use [Mods before Friday](https://mbf.bsquest.xyz/).
 - To set up the mod, you need to install the client on your PC. The client and installation instructions are [here](https://github.com/Lauriethefish/Quest-Discord-Presence-Client).
 
 ## Downloads
