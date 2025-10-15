@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
+  "version": "0.1.0",
   "sharedDir": "shared",
   "dependenciesDir": "extern",
   "info": {
     "name": "discord-presence",
     "id": "bsdc",
-    "version": "0.5.0",
+    "version": "0.6.4",
     "url": null,
     "additionalData": {
       "overrideSoName": "libbsdc.so",
@@ -50,29 +50,29 @@
   "dependencies": [
     {
       "id": "beatsaber-hook",
-      "versionRange": "^5.0.0",
+      "versionRange": "^6.4.2",
       "additionalData": {}
     },
     {
       "id": "scotland2",
-      "versionRange": "^0.1.4",
+      "versionRange": "^0.1.6",
       "additionalData": {
         "includeQmod": false
       }
     },
     {
-      "id": "paper",
-      "versionRange": "^3.0.0",
+      "id": "paper2_scotland2",
+      "versionRange": "^4.6.4",
       "additionalData": {}
     },
     {
       "id": "bs-cordl",
-      "versionRange": "^3700.0.0",
+      "versionRange": "^4008.*",
       "additionalData": {}
     },
     {
       "id": "custom-types",
-      "versionRange": "^0.17.10",
+      "versionRange": "^0.18.3",
       "additionalData": {}
     }
   ]

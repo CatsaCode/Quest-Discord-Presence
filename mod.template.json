@@ -4,13 +4,15 @@
   "name": "${mod_name}",
   "id": "${mod_id}",
   "author": "Lauriethefish#6700, lxtend",
-  "version": "0.5.0",
+  "version": "0.6.4",
   "packageId": "com.beatgames.beatsaber",
-  "packageVersion": "1.37.0_9064817954",
+  "packageVersion": "1.40.8_7379",
   "description": "Allows discord rich presence to see which song you're playing, the current time, and much more.",
+  "coverImage": "cover.png",
   "dependencies": [],
-  "modFiles": ["${binary}"],
-
+  "modFiles": [
+    "${binary}"
+  ],
   "libraryFiles": [],
   "fileCopies": []
 }
