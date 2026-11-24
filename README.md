@@ -14,7 +14,7 @@ Everything should work fine, but if you encounter any problems, please send a me
 
 ## Installation
 
-- To install the mod, use [Mods before Friday](https://mbf.bsquest.xyz/).
+- To install the mod, use [Mods Before Friday](https://mbf.bsquest.xyz/).
 - To set up the mod, you need to install the client on your PC. The client and installation instructions are [here](https://github.com/Lauriethefish/Quest-Discord-Presence-Client).
 
 ## Downloads
